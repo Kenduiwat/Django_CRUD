@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MuicappConfig(AppConfig):
-    default_auto_field = 'django.db.models.BigAutoField'
-    name = 'muicapp'
+class MusicappConfig(AppConfig):
+    default_auto_field = "django.db.models.BigAutoField"
+    name = "musicapp"

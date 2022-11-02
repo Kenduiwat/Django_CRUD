@@ -7,6 +7,3 @@ from .models import Song, Artiste, Lyrics
 admin.site.register(Artiste)
 admin.site.register(Song)
 admin.site.register(Lyrics)
-
-
-
